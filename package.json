@@ -1,0 +1,28 @@
+{
+  "name": "not-async-storage",
+  "version": "1.0.1",
+  "description": "Remake of [React Native AsyncStorage](https://github.com/react-native-community/async-storage) that manages key-value pairs in memory (it might be used for tests purposes)",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuelbarzi/not-async-storage.git"
+  },
+  "keywords": [
+    "remake",
+    "async",
+    "storage",
+    "async-storage",
+    "react",
+    "native",
+    "react-native"
+  ],
+  "author": "manuelbarzi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/manuelbarzi/not-async-storage/issues"
+  },
+  "homepage": "https://github.com/manuelbarzi/not-async-storage#readme"
+}
